@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Namdeo</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
-- 🔭 I’m currently into **Web deveoplment**
+- 🔭 I’m currently into **Web development**
 
 - 🌱 I’m currently learning **competitive programming and system design**
 
